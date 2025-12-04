@@ -1,6 +1,4 @@
 
----
-
 > [!quote]+ Prompt
 > more prompts...
 
