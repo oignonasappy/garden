@@ -1,0 +1,6 @@
+
+---
+
+> [!quote]+ Prompt
+> more prompts...
+
