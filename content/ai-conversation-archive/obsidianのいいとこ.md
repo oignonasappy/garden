@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-ねね、obsidianのいいとこってなに？
+> ねね、obsidianのいいとこってなに？
 
 ---
 
