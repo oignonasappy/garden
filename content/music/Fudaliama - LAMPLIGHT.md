@@ -3,7 +3,7 @@ tags:
   - xenharmonic
 ---
 
-[https://youtu.be/RqG3nOTOXro?si=Q52MQ6dy8jQhxoi7]()
+![youtube](https://youtu.be/RqG3nOTOXro?si=Q52MQ6dy8jQhxoi7)
 
 平均律でよかった～
 (純正律では言わずもがな、このような形でエレガントに踏みにじることはできませんから)
