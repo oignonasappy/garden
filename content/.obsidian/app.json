@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "source"
+}
