@@ -6,7 +6,7 @@
   },
   "disablePluginStyles": false,
   "enabled": true,
-  "outlineListMarkers": true,
+  "outlineListMarkers": false,
   "showAllCodeblockWhitespace": true,
   "showAllWhitespace": false,
   "showBlockquoteMarkers": true,
