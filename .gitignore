@@ -5,9 +5,9 @@ public
 prof
 tsconfig.tsbuildinfo
 # content/.obsidian
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/cache
+content/.obsidian/workspace
+content/.obsidian/workspace.json
+content/.obsidian/cache
 .quartz-cache
 private/
 .replit
