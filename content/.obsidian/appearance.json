@@ -2,5 +2,6 @@
   "cssTheme": "Tokyo Night",
   "interfaceFontFamily": "Moralerspace Argon,Moralerspace Argon HW,Moralerspace Radon,Moralerspace Radon HW",
   "monospaceFontFamily": "Moralerspace Krypton HW",
-  "textFontFamily": "Kiwi Maru,Moralerspace Radon,Moralerspace Radon HW,Moralerspace Argon,Moralerspace Argon HW"
+  "textFontFamily": "Kiwi Maru,Moralerspace Radon,Moralerspace Radon HW,Moralerspace Argon,Moralerspace Argon HW",
+  "baseFontSize": 20
 }
