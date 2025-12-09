@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}}は[{{date}}]に{{numFiles}}個の記事を更新しました。\n({{files}})",
+  "commitMessage": "{{hostname}}は[{{date}}]に{{numFiles}}個の記事を更新しました。",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
@@ -13,7 +13,7 @@
   "disablePopups": false,
   "showErrorNotices": true,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
