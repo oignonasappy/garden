@@ -7,5 +7,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "readableLineLength": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "attachmentFolderPath": "attachments",
+  "focusNewTab": true
 }
