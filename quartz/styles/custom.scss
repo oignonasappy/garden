@@ -1,3 +1,38 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+:root {
+  --tokyonight-red: rgb(255, 117, 156);
+  --tokyonight-yellow: rgb(224, 175, 104);
+  --tokyonight-green: rgb(158, 206, 106);
+  --tokyonight-cyan: rgb(125, 207, 255);
+  --tokyonight-blue: rgb(122, 162, 247);
+  --tokyonight-magenta: rgb(187, 154, 247);
+  --pale-cyan: rgb(145, 217, 255);
+  --pale2-cyan: rgb(165, 227, 255);
+}
+
+h1 {
+  color: var(--tokyonight-red);
+}
+h2 {
+  color: var(--tokyonight-yellow);
+}
+h3 {
+  color: var(--tokyonight-green);
+}
+h4 {
+  color: var(--tokyonight-cyan);
+}
+h5 {
+  color: var(--tokyonight-blue);
+}
+h6 {
+  color: var(--tokyonight-magenta);
+}
+strong {
+  color: var(--pale-cyan);
+}
+em {
+  color: var(--pale2-cyan);
+}

@@ -2,6 +2,10 @@
 tags:
   - obsidian
 ---
+**Bold**  
+*Italic*  
+~~Strike~~  
+<u>UnderLine</u>  
 # THIS IS H1
 ## This Is h2
 ### This is h3
@@ -10,6 +14,8 @@ tags:
 ###### this is h6
 
 ---
+
+footnote[^1]
 
 - `- `箇条書き
 * `* `これも
@@ -20,3 +26,5 @@ tags:
 
 (ctrl + @) でタグを追加
 (ctrl + :)でプロパティを追加
+
+[^1]: footnote
