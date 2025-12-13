@@ -1,6 +1,7 @@
 ---
 tags:
     - gemini
+    - git
 ---
 
 > [!quote]+ Prompt
