@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "rustによるwasm生成のシンプルな手順書",
+      "path": "programming/rustによるwasm生成のシンプルな手順書.md"
+    },
+    {
+      "basename": "Obsidianコールアウト全種",
+      "path": "other/Obsidianコールアウト全種.md"
+    },
+    {
+      "basename": "servlet授業メモ",
+      "path": "programming/servlet授業メモ.md"
+    },
+    {
+      "basename": "Htmlの子要素を取得する",
+      "path": "programming/Htmlの子要素を取得する.md"
+    },
+    {
+      "basename": "Obsidian TokyoNight Colors",
+      "path": "programming/Obsidian TokyoNight Colors.md"
+    },
+    {
+      "basename": "2n枚のコインの裏表がそれぞれn回ちょうど出る確率をシミュレーション",
+      "path": "programming/2n枚のコインの裏表がそれぞれn回ちょうど出る確率をシミュレーション.md"
+    },
+    {
+      "basename": "12平均律と純正律のerror値コード",
+      "path": "programming/12平均律と純正律のerror値コード.md"
+    },
+    {
+      "basename": "$ find . -name name-to-search",
+      "path": "programming/$ find . -name name-to-search.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
