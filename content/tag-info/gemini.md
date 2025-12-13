@@ -2,7 +2,6 @@
 tags:
   - gemini
 ---
-#gemini 
 
 GoogleのAI、「Gemini」
 ![[Pasted image 20251213170300.png]]

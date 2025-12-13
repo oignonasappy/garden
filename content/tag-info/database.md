@@ -2,7 +2,6 @@
 tags:
   - database
 ---
-#database
 
 大規模なデータの保存場所。
 

@@ -2,7 +2,6 @@
 tags:
   - algorithm
 ---
-#algorithm 
 
 プログラミングにおける問題解決の方法。
 

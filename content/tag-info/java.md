@@ -2,7 +2,6 @@
 tags:
     - java
 ---
-#java
 
 *"Write once, run anywhere"* がウリのプログラミング言語。  
 しかしブラウザ上ではもう動かなくなった。

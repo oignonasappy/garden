@@ -2,7 +2,6 @@
 tags:
   - xenharmonic
 ---
-#xenharmonic 
 
 12平均律の垣根を超えた音楽を指す。  
 よく*微分音*と云われる。

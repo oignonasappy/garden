@@ -2,7 +2,6 @@
 tags:
   - functional-programming
 ---
-#functional-programming 
 
 関数型プログラミング、通称*FP*。  
 #javascript や #rust 、 #haskell などがその性質が強い。  

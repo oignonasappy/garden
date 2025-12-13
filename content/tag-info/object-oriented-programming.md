@@ -2,7 +2,6 @@
 tags:
   - object-oriented-programming
 ---
-#object-oriented-programming 
 
 オブジェクト指向プログラミング、通称*OOP*。  
 代表例は #java , #csharp , #cpp

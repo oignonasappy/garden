@@ -2,7 +2,6 @@
 tags:
   - transcription
 ---
-#transcription
 
 採譜、耳コピ。
 

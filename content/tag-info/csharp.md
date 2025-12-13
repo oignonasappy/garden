@@ -2,7 +2,6 @@
 tags:
   - csharp
 ---
-#csharp 
 
 Microsoftによって開発された、 #java を基にしたプログラミング言語。
 

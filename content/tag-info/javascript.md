@@ -2,7 +2,6 @@
 tags:
   - javascript
 ---
-#javascript
 
 ブラウザ上で動作するプログラミング言語。  
 #html や #css と頻繁に併用される。  

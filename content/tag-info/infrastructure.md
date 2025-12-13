@@ -2,7 +2,6 @@
 tags:
   - infrastructure
 ---
-#infrastructure 
 
 ITにおいては、情報を伝達するための手段のことかな？
 

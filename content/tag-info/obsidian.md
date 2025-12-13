@@ -2,7 +2,6 @@
 tags:
   - obsidian
 ---
-#obsidian
 
 Markdown指向のメモアプリ。つまり、この場所。
 
