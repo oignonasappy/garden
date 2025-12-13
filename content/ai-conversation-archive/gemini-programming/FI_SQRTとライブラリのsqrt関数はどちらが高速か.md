@@ -1,6 +1,7 @@
 ---
 tags:
   - gemini
+  - algorithm
 ---
 
 > [!quote]+ Prompt

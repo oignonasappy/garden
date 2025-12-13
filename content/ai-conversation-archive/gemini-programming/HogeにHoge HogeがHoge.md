@@ -3,6 +3,7 @@ tags:
   - gemini
   - java
   - object-oriented-programming
+  - algorithm
 ---
 
 > [!quote]+ Prompt
