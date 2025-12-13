@@ -1,6 +1,7 @@
 ---
 tags:
     - gemini
+    - swift
 ---
 
 > [!quote]+ Prompt

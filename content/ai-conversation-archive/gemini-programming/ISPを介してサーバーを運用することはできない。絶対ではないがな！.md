@@ -1,7 +1,6 @@
 ---
 tags:
   - gemini
-  - network
 ---
 
 > [!quote]+ Prompt
