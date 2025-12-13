@@ -1,6 +1,8 @@
 ---
 tags:
-    - gemini
+  - gemini
+  - react
+  - next-js
 ---
 
 > [!quote]+ Prompt

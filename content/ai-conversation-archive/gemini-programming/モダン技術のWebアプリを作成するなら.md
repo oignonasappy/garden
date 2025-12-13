@@ -3,6 +3,8 @@ tags:
   - gemini
   - rust
   - javascript
+  - react
+  - infrastructure
 ---
 
 > [!quote]+ Prompt

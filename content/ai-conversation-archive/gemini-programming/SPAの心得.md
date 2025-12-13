@@ -1,6 +1,7 @@
 ---
 tags:
-    - gemini
+  - gemini
+  - react
 ---
 
 > [!quote]+ Prompt
