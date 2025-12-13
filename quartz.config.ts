@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "garden.asappy.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "inbox"],
+    ignorePatterns: ["private", "x00_private", "templates", "08_templates", "inbox", "00_inbox", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

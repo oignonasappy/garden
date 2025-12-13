@@ -17,4 +17,6 @@ private/
 replit.nix
 
 content/private/
+content/x00_private/
 content/college/
+content/x00_college/
