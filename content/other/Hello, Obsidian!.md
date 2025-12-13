@@ -28,3 +28,5 @@ footnote[^1]
 (ctrl + :)でプロパティを追加
 
 [^1]: footnote
+
+https://help.obsidian.md/syntax
