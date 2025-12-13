@@ -4,5 +4,5 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> prompts...
+> 
 
