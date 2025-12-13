@@ -2,6 +2,9 @@
 tags:
   - javascript
 ---
+
+経緯: [[アドフラウドの厚かましいプライバシーポリシー、巧妙なJavaScript]]
+
 https://gemini.google.com/share/911d5d273711
 ```js
 !(function (e, t) {
