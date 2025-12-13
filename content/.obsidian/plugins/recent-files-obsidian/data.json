@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Rustのパラダイムは？",
+      "path": "ai-conversation-archive/gemini-programming/Rustのパラダイムは？.md"
+    },
+    {
+      "basename": "ROROパターンのべすとぷらくてぃす",
+      "path": "ai-conversation-archive/gemini-programming/ROROパターンのべすとぷらくてぃす.md"
+    },
+    {
+      "basename": "random()関数で値に「ゆらぎ」を持たせる",
+      "path": "ai-conversation-archive/gemini-programming/random()関数で値に「ゆらぎ」を持たせる.md"
+    },
+    {
+      "basename": "RDBMSクエリの禁忌",
+      "path": "ai-conversation-archive/gemini-programming/RDBMSクエリの禁忌.md"
+    },
+    {
+      "basename": "q, que, queueにマッチする正規表現",
+      "path": "ai-conversation-archive/gemini-programming/q, que, queueにマッチする正規表現.md"
+    },
+    {
+      "basename": "rAFの処理逼迫時の影響は",
+      "path": "ai-conversation-archive/gemini-programming/rAFの処理逼迫時の影響は.md"
+    },
+    {
+      "basename": "Promise.all()",
+      "path": "ai-conversation-archive/gemini-programming/Promise.all().md"
+    },
+    {
+      "basename": "PDOから取得したデータにゴミがつく",
+      "path": "ai-conversation-archive/gemini-programming/PDOから取得したデータにゴミがつく.md"
+    },
+    {
+      "basename": "parseInt()の例外catch",
+      "path": "ai-conversation-archive/gemini-programming/parseInt()の例外catch.md"
+    },
+    {
+      "basename": "Optional Chainの配列版は存在するか",
+      "path": "ai-conversation-archive/gemini-programming/Optional Chainの配列版は存在するか.md"
+    },
+    {
+      "basename": "Object型のプリミティブ配列の意義, LinkedListはいつ使う？",
+      "path": "ai-conversation-archive/gemini-programming/Object型のプリミティブ配列の意義, LinkedListはいつ使う？.md"
+    },
+    {
+      "basename": "nullクリアの必要性",
+      "path": "ai-conversation-archive/gemini-programming/nullクリアの必要性.md"
+    },
+    {
+      "basename": "loop, generator, arrayは同一か",
+      "path": "ai-conversation-archive/gemini-programming/loop, generator, arrayは同一か.md"
+    },
+    {
+      "basename": "Linux OSは単体では存在しない",
+      "path": "ai-conversation-archive/gemini-programming/Linux OSは単体では存在しない.md"
+    },
+    {
+      "basename": "Kotlinは完全にJavaの代替となるか？",
+      "path": "ai-conversation-archive/gemini-programming/Kotlinは完全にJavaの代替となるか？.md"
+    },
+    {
+      "basename": "自己参照リレーションシップの解説",
+      "path": "ai-conversation-archive/gemini-programming/自己参照リレーションシップの解説.md"
+    },
+    {
+      "basename": "巨大データの分割SELECT",
+      "path": "ai-conversation-archive/gemini-programming/巨大データの分割SELECT.md"
+    },
+    {
+      "basename": "ヘッダ行を追加するクエリ",
+      "path": "ai-conversation-archive/gemini-programming/ヘッダ行を追加するクエリ.md"
+    },
+    {
+      "basename": "SQLクエリのパフォーマンス限界",
+      "path": "ai-conversation-archive/gemini-programming/SQLクエリのパフォーマンス限界.md"
+    },
+    {
+      "basename": "IDENTITYを含む列へのINSERT方法",
+      "path": "ai-conversation-archive/gemini-programming/IDENTITYを含む列へのINSERT方法.md"
+    },
+    {
+      "basename": "DBにCHAR型を使用する際の実装",
+      "path": "ai-conversation-archive/gemini-programming/DBにCHAR型を使用する際の実装.md"
+    },
+    {
       "basename": "ISPを介してサーバーを運用することはできない。絶対ではないがな！",
       "path": "ai-conversation-archive/gemini-programming/ISPを介してサーバーを運用することはできない。絶対ではないがな！.md"
     },
@@ -11,10 +95,6 @@
     {
       "basename": "rustによるwasm生成のシンプルな手順書",
       "path": "programming/rustによるwasm生成のシンプルな手順書.md"
-    },
-    {
-      "basename": "Linux OSは単体では存在しない",
-      "path": "ai-conversation-archive/gemini-programming/Linux OSは単体では存在しない.md"
     },
     {
       "basename": "Googleを介した認証",
@@ -69,14 +149,6 @@
       "path": "ai-conversation-archive/gemini-programming/toString()のオーバーライド.md"
     },
     {
-      "basename": "ROROパターンのべすとぷらくてぃす",
-      "path": "ai-conversation-archive/gemini-programming/ROROパターンのべすとぷらくてぃす.md"
-    },
-    {
-      "basename": "Object型のプリミティブ配列の意義, LinkedListはいつ使う？",
-      "path": "ai-conversation-archive/gemini-programming/Object型のプリミティブ配列の意義, LinkedListはいつ使う？.md"
-    },
-    {
       "basename": "JsDocでabstractなmethodを明示する",
       "path": "ai-conversation-archive/gemini-programming/JsDocでabstractなmethodを明示する.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "高階関数の呼び出し方法ごとの差異",
       "path": "ai-conversation-archive/gemini-programming/高階関数の呼び出し方法ごとの差異.md"
-    },
-    {
-      "basename": "関数型的な書き方と手続き的な書き方のどちらが優れているか",
-      "path": "ai-conversation-archive/gemini-programming/関数型的な書き方と手続き的な書き方のどちらが優れているか.md"
-    },
-    {
-      "basename": "関数型プログラミングのジレンマ",
-      "path": "ai-conversation-archive/gemini-programming/関数型プログラミングのジレンマ.md"
-    },
-    {
-      "basename": "この長いメソッドチェーンを改行",
-      "path": "ai-conversation-archive/gemini-programming/この長いメソッドチェーンを改行.md"
-    },
-    {
-      "basename": "trampoline",
-      "path": "programming/trampoline.md"
-    },
-    {
-      "basename": "Rustのパラダイムは？",
-      "path": "ai-conversation-archive/gemini-programming/Rustのパラダイムは？.md"
-    },
-    {
-      "basename": "シンプルで難しい構文を使うとどうなるか？",
-      "path": "programming/シンプルで難しい構文を使うとどうなるか？.md"
-    },
-    {
-      "basename": "generatorは遅延評価",
-      "path": "ai-conversation-archive/gemini-programming/generatorは遅延評価.md"
-    },
-    {
-      "basename": "アロー関数の式・ブロック",
-      "path": "ai-conversation-archive/gemini-programming/アロー関数の式・ブロック.md"
-    },
-    {
-      "basename": "loop, generator, arrayは同一か",
-      "path": "ai-conversation-archive/gemini-programming/loop, generator, arrayは同一か.md"
-    },
-    {
-      "basename": "generatorの意義, 使用方法",
-      "path": "ai-conversation-archive/gemini-programming/generatorの意義, 使用方法.md"
-    },
-    {
-      "basename": "FPとゲームプログラミングの相性は…",
-      "path": "ai-conversation-archive/gemini-programming/FPとゲームプログラミングの相性は….md"
-    },
-    {
-      "basename": "call(), apply(), bind()",
-      "path": "ai-conversation-archive/gemini-programming/call(), apply(), bind().md"
-    },
-    {
-      "basename": "3次元配列の回転",
-      "path": "ai-conversation-archive/gemini-programming/3次元配列の回転.md"
-    },
-    {
-      "basename": "indent幅は2か4か",
-      "path": "ai-conversation-archive/gemini-programming/indent幅は2か4か.md"
-    },
-    {
-      "basename": "Obsidianコールアウト全種",
-      "path": "other/Obsidianコールアウト全種.md"
-    },
-    {
-      "basename": "github actionとは？",
-      "path": "ai-conversation-archive/gemini-programming/github actionとは？.md"
-    },
-    {
-      "basename": "GASでできること",
-      "path": "ai-conversation-archive/gemini-programming/GASでできること.md"
-    },
-    {
-      "basename": "ESModuleにて条件を満たすと実行する",
-      "path": "ai-conversation-archive/gemini-programming/ESModuleにて条件を満たすと実行する.md"
     }
   ],
   "omittedPaths": [],

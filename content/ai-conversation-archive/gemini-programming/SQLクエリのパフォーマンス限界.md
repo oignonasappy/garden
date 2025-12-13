@@ -1,7 +1,7 @@
 ---
 tags:
   - gemini
-  - sql
+  - database
 ---
 
 > [!quote]+ Prompt
