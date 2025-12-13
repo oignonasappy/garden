@@ -2,8 +2,8 @@
 tags:
   - gemini
   - rust
-  - functionalprogramming
-  - objectorientedprogramming
+  - functional-programming
+  - object-oriented-programming
 ---
 
 > [!quote]+ Prompt

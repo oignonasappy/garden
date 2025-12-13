@@ -2,7 +2,7 @@
 tags:
   - gemini
   - java
-  - functionalprogramming
+  - functional-programming
 ---
 
 > [!quote]+ Prompt

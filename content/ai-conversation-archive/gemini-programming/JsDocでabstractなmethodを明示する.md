@@ -2,7 +2,7 @@
 tags:
   - gemini
   - javascript
-  - objectorientedprogramming
+  - object-oriented-programming
 ---
 
 > [!quote]+ Prompt

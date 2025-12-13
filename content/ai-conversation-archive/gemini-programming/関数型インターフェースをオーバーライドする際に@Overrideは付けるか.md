@@ -2,8 +2,8 @@
 tags:
   - gemini
   - java
-  - objectorientedprogramming
-  - functionalprogramming
+  - object-oriented-programming
+  - functional-programming
 ---
 
 > [!quote]+ Prompt

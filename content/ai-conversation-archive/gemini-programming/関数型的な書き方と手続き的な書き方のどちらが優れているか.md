@@ -1,7 +1,7 @@
 ---
 tags:
   - gemini
-  - functionalprogramming
+  - functional-programming
 ---
 
 > [!quote]+ Prompt

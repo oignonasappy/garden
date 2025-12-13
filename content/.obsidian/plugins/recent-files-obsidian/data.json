@@ -1,36 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "rustによるwasm生成のシンプルな手順書",
-      "path": "programming/rustによるwasm生成のシンプルな手順書.md"
+      "basename": "関数として切り出した部分の変数の管理方法 MVCにて",
+      "path": "ai-conversation-archive/gemini-programming/関数として切り出した部分の変数の管理方法 MVCにて.md"
+    },
+    {
+      "basename": "ユーザー定義例外はどれだけ細分化するか",
+      "path": "ai-conversation-archive/gemini-programming/ユーザー定義例外はどれだけ細分化するか.md"
+    },
+    {
+      "basename": "プリミティブ型の文字列は存在する？？",
+      "path": "ai-conversation-archive/gemini-programming/プリミティブ型の文字列は存在する？？.md"
+    },
+    {
+      "basename": "オブジェクト内の関数の呼び出し方",
+      "path": "ai-conversation-archive/gemini-programming/オブジェクト内の関数の呼び出し方.md"
+    },
+    {
+      "basename": "toString()のオーバーライド",
+      "path": "ai-conversation-archive/gemini-programming/toString()のオーバーライド.md"
+    },
+    {
+      "basename": "ROROパターンのべすとぷらくてぃす",
+      "path": "ai-conversation-archive/gemini-programming/ROROパターンのべすとぷらくてぃす.md"
+    },
+    {
+      "basename": "Object型のプリミティブ配列の意義, LinkedListはいつ使う？",
+      "path": "ai-conversation-archive/gemini-programming/Object型のプリミティブ配列の意義, LinkedListはいつ使う？.md"
+    },
+    {
+      "basename": "JsDocでabstractなmethodを明示する",
+      "path": "ai-conversation-archive/gemini-programming/JsDocでabstractなmethodを明示する.md"
+    },
+    {
+      "basename": "is-a関係以外の継承の例",
+      "path": "ai-conversation-archive/gemini-programming/is-a関係以外の継承の例.md"
+    },
+    {
+      "basename": "JavaScriptのオブジェクト指向",
+      "path": "ai-conversation-archive/gemini-programming/JavaScriptのオブジェクト指向.md"
+    },
+    {
+      "basename": "HogeにHoge HogeがHoge",
+      "path": "ai-conversation-archive/gemini-programming/HogeにHoge HogeがHoge.md"
+    },
+    {
+      "basename": "extendsではなくimplementを使うべき場面",
+      "path": "ai-conversation-archive/gemini-programming/extendsではなくimplementを使うべき場面.md"
+    },
+    {
+      "basename": "関数型インターフェースをオーバーライドする際に@Overrideは付けるか",
+      "path": "ai-conversation-archive/gemini-programming/関数型インターフェースをオーバーライドする際に@Overrideは付けるか.md"
+    },
+    {
+      "basename": "列方向の要素数のMaxを求める",
+      "path": "ai-conversation-archive/gemini-programming/列方向の要素数のMaxを求める.md"
+    },
+    {
+      "basename": "戻り値をvoidではなくthisにしない理由",
+      "path": "ai-conversation-archive/gemini-programming/戻り値をvoidではなくthisにしない理由.md"
+    },
+    {
+      "basename": "無限リストの表現方法",
+      "path": "ai-conversation-archive/gemini-programming/無限リストの表現方法.md"
+    },
+    {
+      "basename": "二次元配列を伸縮",
+      "path": "ai-conversation-archive/gemini-programming/二次元配列を伸縮.md"
+    },
+    {
+      "basename": "二次元配列のmap()",
+      "path": "ai-conversation-archive/gemini-programming/二次元配列のmap().md"
+    },
+    {
+      "basename": "制御構造禁止プログラミング",
+      "path": "programming/制御構造禁止プログラミング.md"
+    },
+    {
+      "basename": "再帰関数のスタック上限を向上させる裏技",
+      "path": "ai-conversation-archive/gemini-programming/再帰関数のスタック上限を向上させる裏技.md"
+    },
+    {
+      "basename": "高階関数の呼び出し方法ごとの差異",
+      "path": "ai-conversation-archive/gemini-programming/高階関数の呼び出し方法ごとの差異.md"
+    },
+    {
+      "basename": "関数型的な書き方と手続き的な書き方のどちらが優れているか",
+      "path": "ai-conversation-archive/gemini-programming/関数型的な書き方と手続き的な書き方のどちらが優れているか.md"
+    },
+    {
+      "basename": "関数型プログラミングのジレンマ",
+      "path": "ai-conversation-archive/gemini-programming/関数型プログラミングのジレンマ.md"
+    },
+    {
+      "basename": "この長いメソッドチェーンを改行",
+      "path": "ai-conversation-archive/gemini-programming/この長いメソッドチェーンを改行.md"
+    },
+    {
+      "basename": "trampoline",
+      "path": "programming/trampoline.md"
+    },
+    {
+      "basename": "Rustのパラダイムは？",
+      "path": "ai-conversation-archive/gemini-programming/Rustのパラダイムは？.md"
+    },
+    {
+      "basename": "シンプルで難しい構文を使うとどうなるか？",
+      "path": "programming/シンプルで難しい構文を使うとどうなるか？.md"
+    },
+    {
+      "basename": "generatorは遅延評価",
+      "path": "ai-conversation-archive/gemini-programming/generatorは遅延評価.md"
+    },
+    {
+      "basename": "アロー関数の式・ブロック",
+      "path": "ai-conversation-archive/gemini-programming/アロー関数の式・ブロック.md"
+    },
+    {
+      "basename": "loop, generator, arrayは同一か",
+      "path": "ai-conversation-archive/gemini-programming/loop, generator, arrayは同一か.md"
+    },
+    {
+      "basename": "generatorの意義, 使用方法",
+      "path": "ai-conversation-archive/gemini-programming/generatorの意義, 使用方法.md"
+    },
+    {
+      "basename": "FPとゲームプログラミングの相性は…",
+      "path": "ai-conversation-archive/gemini-programming/FPとゲームプログラミングの相性は….md"
+    },
+    {
+      "basename": "call(), apply(), bind()",
+      "path": "ai-conversation-archive/gemini-programming/call(), apply(), bind().md"
+    },
+    {
+      "basename": "3次元配列の回転",
+      "path": "ai-conversation-archive/gemini-programming/3次元配列の回転.md"
+    },
+    {
+      "basename": "indent幅は2か4か",
+      "path": "ai-conversation-archive/gemini-programming/indent幅は2か4か.md"
     },
     {
       "basename": "Obsidianコールアウト全種",
       "path": "other/Obsidianコールアウト全種.md"
     },
     {
-      "basename": "servlet授業メモ",
-      "path": "programming/servlet授業メモ.md"
+      "basename": "github actionとは？",
+      "path": "ai-conversation-archive/gemini-programming/github actionとは？.md"
     },
     {
-      "basename": "Htmlの子要素を取得する",
-      "path": "programming/Htmlの子要素を取得する.md"
+      "basename": "Googleを介した認証",
+      "path": "ai-conversation-archive/gemini-programming/Googleを介した認証.md"
     },
     {
-      "basename": "Obsidian TokyoNight Colors",
-      "path": "programming/Obsidian TokyoNight Colors.md"
+      "basename": "HashMapのコード量が多すぎる",
+      "path": "ai-conversation-archive/gemini-programming/HashMapのコード量が多すぎる.md"
     },
     {
-      "basename": "2n枚のコインの裏表がそれぞれn回ちょうど出る確率をシミュレーション",
-      "path": "programming/2n枚のコインの裏表がそれぞれn回ちょうど出る確率をシミュレーション.md"
+      "basename": "GASでできること",
+      "path": "ai-conversation-archive/gemini-programming/GASでできること.md"
     },
     {
-      "basename": "12平均律と純正律のerror値コード",
-      "path": "programming/12平均律と純正律のerror値コード.md"
+      "basename": "Faviconのサイズ・拡張子",
+      "path": "ai-conversation-archive/gemini-programming/Faviconのサイズ・拡張子.md"
     },
     {
-      "basename": "$ find . -name name-to-search",
-      "path": "programming/$ find . -name name-to-search.md"
+      "basename": "ESModuleにて条件を満たすと実行する",
+      "path": "ai-conversation-archive/gemini-programming/ESModuleにて条件を満たすと実行する.md"
+    },
+    {
+      "basename": "EF6のDataGridView表示・更新",
+      "path": "ai-conversation-archive/gemini-programming/EF6のDataGridView表示・更新.md"
+    },
+    {
+      "basename": "DVDのメニューはどうやって実装してるの？",
+      "path": "ai-conversation-archive/gemini-programming/DVDのメニューはどうやって実装してるの？.md"
+    },
+    {
+      "basename": "css変数を書き換える",
+      "path": "ai-conversation-archive/gemini-programming/css変数を書き換える.md"
+    },
+    {
+      "basename": "CSSフレームワークの必要性",
+      "path": "ai-conversation-archive/gemini-programming/CSSフレームワークの必要性.md"
+    },
+    {
+      "basename": "cssでバツ印を描く",
+      "path": "ai-conversation-archive/gemini-programming/cssでバツ印を描く.md"
+    },
+    {
+      "basename": "DBにCHAR型を使用する際の実装",
+      "path": "ai-conversation-archive/gemini-programming/DBにCHAR型を使用する際の実装.md"
+    },
+    {
+      "basename": "const, finalは宣言時の代入が必要。その理由",
+      "path": "ai-conversation-archive/gemini-programming/const, finalは宣言時の代入が必要。その理由.md"
+    },
+    {
+      "basename": "Bluesky API",
+      "path": "ai-conversation-archive/gemini-programming/Bluesky API.md"
     }
   ],
   "omittedPaths": [],

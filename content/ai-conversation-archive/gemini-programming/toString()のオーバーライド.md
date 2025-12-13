@@ -2,7 +2,7 @@
 tags:
   - gemini
   - java
-  - objectorientedprogramming
+  - object-oriented-programming
 ---
 
 > [!quote]+ Prompt

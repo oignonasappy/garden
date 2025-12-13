@@ -1,7 +1,7 @@
 ---
 tags:
   - javascript
-  - functionalprogramming
+  - functional-programming
 ---
 再帰関数でスタックオーバーフローを起こさない裏技
 # トランポリン化
