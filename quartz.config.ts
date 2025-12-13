@@ -17,12 +17,13 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "garden.asappy.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "inbox"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        title: "Tangerine",
         header: "Schibsted Grotesk",
         body: "Shippori Mincho", // "Source Sans Pro",
         code: "IBM Plex Mono",
