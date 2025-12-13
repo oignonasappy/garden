@@ -2,6 +2,7 @@
 tags:
     - gemini
     - java
+    - security
 ---
 
 > [!quote]+ Prompt

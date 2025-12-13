@@ -1,6 +1,7 @@
 ---
 tags:
   - gemini
+  - security
 ---
 
 > [!quote]+ Prompt

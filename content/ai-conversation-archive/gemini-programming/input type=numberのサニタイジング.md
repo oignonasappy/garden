@@ -2,6 +2,7 @@
 tags:
     - gemini
     - html
+    - security
 ---
 
 > [!quote]+ Prompt
