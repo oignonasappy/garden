@@ -1,6 +1,7 @@
 ---
 tags:
-    - gemini
+  - gemini
+  - security
 ---
 
 前回[[Linux OSは単体では存在しない]]

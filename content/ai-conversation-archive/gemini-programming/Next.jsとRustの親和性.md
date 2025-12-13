@@ -5,6 +5,7 @@ tags:
   - next-js
   - react
   - javascript
+  - infrastructure
 ---
 
 > [!quote]+ Prompt

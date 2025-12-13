@@ -2,6 +2,7 @@
 tags:
   - gemini
   - database
+  - infrastructure
 ---
 
 > [!quote]+ Prompt

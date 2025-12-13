@@ -1,6 +1,7 @@
 ---
 tags:
   - gemini
+  - infrastructure
 ---
 
 > [!quote]+ Prompt

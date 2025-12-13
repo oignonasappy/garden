@@ -1,7 +1,8 @@
 ---
 tags:
-    - gemini
-    - php
+  - gemini
+  - php
+  - database
 ---
 
 > [!quote]+ Prompt
