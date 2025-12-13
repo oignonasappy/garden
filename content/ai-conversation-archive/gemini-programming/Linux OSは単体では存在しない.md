@@ -1,6 +1,7 @@
 ---
 tags:
     - gemini
+    - linux
 ---
 
 > [!quote]+ Prompt

@@ -1,6 +1,7 @@
 ---
 tags:
     - rust
+    - bash
 ---
 
 ## 環境
