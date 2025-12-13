@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "ISPを介してサーバーを運用することはできない。絶対ではないがな！",
+      "path": "ai-conversation-archive/gemini-programming/ISPを介してサーバーを運用することはできない。絶対ではないがな！.md"
+    },
+    {
+      "basename": "JavaScriptのデバッグ",
+      "path": "ai-conversation-archive/gemini-programming/JavaScriptのデバッグ.md"
+    },
+    {
+      "basename": "font読込失敗時の挙動",
+      "path": "ai-conversation-archive/gemini-programming/font読込失敗時の挙動.md"
+    },
+    {
+      "basename": "マイナーHTMLタグ",
+      "path": "ai-conversation-archive/gemini-programming/マイナーHTMLタグ.md"
+    },
+    {
+      "basename": "二次元配列をスライスする",
+      "path": "ai-conversation-archive/gemini-programming/二次元配列をスライスする.md"
+    },
+    {
+      "basename": "奇妙な再帰的インスタンス化と、コンパイラの優秀さについて",
+      "path": "ai-conversation-archive/gemini-programming/奇妙な再帰的インスタンス化と、コンパイラの優秀さについて.md"
+    },
+    {
+      "basename": "引数がdoubleの関数にintを渡した際のパフォーマンスについて",
+      "path": "ai-conversation-archive/gemini-programming/引数がdoubleの関数にintを渡した際のパフォーマンスについて.md"
+    },
+    {
+      "basename": "WebAssemblyの限界",
+      "path": "ai-conversation-archive/gemini-programming/WebAssemblyの限界.md"
+    },
+    {
+      "basename": "Object型のプリミティブ配列の意義, LinkedListはいつ使う？",
+      "path": "ai-conversation-archive/gemini-programming/Object型のプリミティブ配列の意義, LinkedListはいつ使う？.md"
+    },
+    {
+      "basename": "JavaScriptのオブジェクト指向",
+      "path": "ai-conversation-archive/gemini-programming/JavaScriptのオブジェクト指向.md"
+    },
+    {
+      "basename": "FI_SQRTとライブラリのsqrt関数はどちらが高速か",
+      "path": "ai-conversation-archive/gemini-programming/FI_SQRTとライブラリのsqrt関数はどちらが高速か.md"
+    },
+    {
+      "basename": "bit演算と等価な操作の差異",
+      "path": "ai-conversation-archive/gemini-programming/bit演算と等価な操作の差異.md"
+    },
+    {
+      "basename": "2025-12-11",
+      "path": "daily/2025-12-11.md"
+    },
+    {
+      "basename": "1div0と1div0.0",
+      "path": "ai-conversation-archive/gemini-programming/1div0と1div0.0.md"
+    },
+    {
+      "basename": "PHPの命名規則",
+      "path": "ai-conversation-archive/gemini-programming/PHPの命名規則.md"
+    },
+    {
+      "basename": "rustの使用場面",
+      "path": "ai-conversation-archive/gemini-programming/rustの使用場面.md"
+    },
+    {
+      "basename": "プリミティブ型の文字列は存在する？？",
+      "path": "ai-conversation-archive/gemini-programming/プリミティブ型の文字列は存在する？？.md"
+    },
+    {
+      "basename": "関数型的な書き方と手続き的な書き方のどちらが優れているか",
+      "path": "ai-conversation-archive/gemini-programming/関数型的な書き方と手続き的な書き方のどちらが優れているか.md"
+    },
+    {
+      "basename": "身近なメモリリークのリスク",
+      "path": "ai-conversation-archive/gemini-programming/身近なメモリリークのリスク.md"
+    },
+    {
+      "basename": "bit数をケチることの意味",
+      "path": "ai-conversation-archive/gemini-programming/bit数をケチることの意味.md"
+    },
+    {
+      "basename": "Kotlinは完全にJavaの代替となるか？",
+      "path": "ai-conversation-archive/gemini-programming/Kotlinは完全にJavaの代替となるか？.md"
+    },
+    {
+      "basename": "Temporal",
+      "path": "ai-conversation-archive/gemini-programming/Temporal.md"
+    },
+    {
+      "basename": "tabindexは使う？",
+      "path": "ai-conversation-archive/gemini-programming/tabindexは使う？.md"
+    },
+    {
+      "basename": "モダン技術のWebアプリを作成するなら",
+      "path": "ai-conversation-archive/gemini-programming/モダン技術のWebアプリを作成するなら.md"
+    },
+    {
+      "basename": "swiftアプリのインストール時",
+      "path": "ai-conversation-archive/gemini-programming/swiftアプリのインストール時.md"
+    },
+    {
+      "basename": "swift playgroundの自由度",
+      "path": "ai-conversation-archive/gemini-programming/swift playgroundの自由度.md"
+    },
+    {
+      "basename": "SQLクエリのパフォーマンス限界",
+      "path": "ai-conversation-archive/gemini-programming/SQLクエリのパフォーマンス限界.md"
+    },
+    {
+      "basename": "SPA的Webアプリ向けのフレームワークのトレンド",
+      "path": "ai-conversation-archive/gemini-programming/SPA的Webアプリ向けのフレームワークのトレンド.md"
+    },
+    {
+      "basename": "SPAの心得",
+      "path": "ai-conversation-archive/gemini-programming/SPAの心得.md"
+    },
+    {
+      "basename": "script asyncとdeferを併用した際に前後関係は保証されるか",
+      "path": "ai-conversation-archive/gemini-programming/script asyncとdeferを併用した際に前後関係は保証されるか.md"
+    },
+    {
       "basename": "Rustのパラダイムは？",
       "path": "ai-conversation-archive/gemini-programming/Rustのパラダイムは？.md"
     },
@@ -41,10 +161,6 @@
       "path": "ai-conversation-archive/gemini-programming/Optional Chainの配列版は存在するか.md"
     },
     {
-      "basename": "Object型のプリミティブ配列の意義, LinkedListはいつ使う？",
-      "path": "ai-conversation-archive/gemini-programming/Object型のプリミティブ配列の意義, LinkedListはいつ使う？.md"
-    },
-    {
       "basename": "nullクリアの必要性",
       "path": "ai-conversation-archive/gemini-programming/nullクリアの必要性.md"
     },
@@ -55,10 +171,6 @@
     {
       "basename": "Linux OSは単体では存在しない",
       "path": "ai-conversation-archive/gemini-programming/Linux OSは単体では存在しない.md"
-    },
-    {
-      "basename": "Kotlinは完全にJavaの代替となるか？",
-      "path": "ai-conversation-archive/gemini-programming/Kotlinは完全にJavaの代替となるか？.md"
     },
     {
       "basename": "自己参照リレーションシップの解説",
@@ -73,10 +185,6 @@
       "path": "ai-conversation-archive/gemini-programming/ヘッダ行を追加するクエリ.md"
     },
     {
-      "basename": "SQLクエリのパフォーマンス限界",
-      "path": "ai-conversation-archive/gemini-programming/SQLクエリのパフォーマンス限界.md"
-    },
-    {
       "basename": "IDENTITYを含む列へのINSERT方法",
       "path": "ai-conversation-archive/gemini-programming/IDENTITYを含む列へのINSERT方法.md"
     },
@@ -85,120 +193,12 @@
       "path": "ai-conversation-archive/gemini-programming/DBにCHAR型を使用する際の実装.md"
     },
     {
-      "basename": "ISPを介してサーバーを運用することはできない。絶対ではないがな！",
-      "path": "ai-conversation-archive/gemini-programming/ISPを介してサーバーを運用することはできない。絶対ではないがな！.md"
-    },
-    {
       "basename": "PUTとPATCHには本質的な違いがない。エラーコードも。",
       "path": "ai-conversation-archive/gemini-programming/PUTとPATCHには本質的な違いがない。エラーコードも。.md"
     },
     {
       "basename": "rustによるwasm生成のシンプルな手順書",
       "path": "programming/rustによるwasm生成のシンプルな手順書.md"
-    },
-    {
-      "basename": "Googleを介した認証",
-      "path": "ai-conversation-archive/gemini-programming/Googleを介した認証.md"
-    },
-    {
-      "basename": "$ find . -name name-to-search",
-      "path": "programming/$ find . -name name-to-search.md"
-    },
-    {
-      "basename": "rustの使用場面",
-      "path": "ai-conversation-archive/gemini-programming/rustの使用場面.md"
-    },
-    {
-      "basename": "HashMapのコード量が多すぎる",
-      "path": "ai-conversation-archive/gemini-programming/HashMapのコード量が多すぎる.md"
-    },
-    {
-      "basename": "HashMapの容量",
-      "path": "ai-conversation-archive/gemini-programming/HashMapの容量.md"
-    },
-    {
-      "basename": "FI_SQRTとライブラリのsqrt関数はどちらが高速か",
-      "path": "ai-conversation-archive/gemini-programming/FI_SQRTとライブラリのsqrt関数はどちらが高速か.md"
-    },
-    {
-      "basename": "Faviconのサイズ・拡張子",
-      "path": "ai-conversation-archive/gemini-programming/Faviconのサイズ・拡張子.md"
-    },
-    {
-      "basename": "extendsではなくimplementを使うべき場面",
-      "path": "ai-conversation-archive/gemini-programming/extendsではなくimplementを使うべき場面.md"
-    },
-    {
-      "basename": "関数として切り出した部分の変数の管理方法 MVCにて",
-      "path": "ai-conversation-archive/gemini-programming/関数として切り出した部分の変数の管理方法 MVCにて.md"
-    },
-    {
-      "basename": "ユーザー定義例外はどれだけ細分化するか",
-      "path": "ai-conversation-archive/gemini-programming/ユーザー定義例外はどれだけ細分化するか.md"
-    },
-    {
-      "basename": "プリミティブ型の文字列は存在する？？",
-      "path": "ai-conversation-archive/gemini-programming/プリミティブ型の文字列は存在する？？.md"
-    },
-    {
-      "basename": "オブジェクト内の関数の呼び出し方",
-      "path": "ai-conversation-archive/gemini-programming/オブジェクト内の関数の呼び出し方.md"
-    },
-    {
-      "basename": "toString()のオーバーライド",
-      "path": "ai-conversation-archive/gemini-programming/toString()のオーバーライド.md"
-    },
-    {
-      "basename": "JsDocでabstractなmethodを明示する",
-      "path": "ai-conversation-archive/gemini-programming/JsDocでabstractなmethodを明示する.md"
-    },
-    {
-      "basename": "is-a関係以外の継承の例",
-      "path": "ai-conversation-archive/gemini-programming/is-a関係以外の継承の例.md"
-    },
-    {
-      "basename": "JavaScriptのオブジェクト指向",
-      "path": "ai-conversation-archive/gemini-programming/JavaScriptのオブジェクト指向.md"
-    },
-    {
-      "basename": "HogeにHoge HogeがHoge",
-      "path": "ai-conversation-archive/gemini-programming/HogeにHoge HogeがHoge.md"
-    },
-    {
-      "basename": "関数型インターフェースをオーバーライドする際に@Overrideは付けるか",
-      "path": "ai-conversation-archive/gemini-programming/関数型インターフェースをオーバーライドする際に@Overrideは付けるか.md"
-    },
-    {
-      "basename": "列方向の要素数のMaxを求める",
-      "path": "ai-conversation-archive/gemini-programming/列方向の要素数のMaxを求める.md"
-    },
-    {
-      "basename": "戻り値をvoidではなくthisにしない理由",
-      "path": "ai-conversation-archive/gemini-programming/戻り値をvoidではなくthisにしない理由.md"
-    },
-    {
-      "basename": "無限リストの表現方法",
-      "path": "ai-conversation-archive/gemini-programming/無限リストの表現方法.md"
-    },
-    {
-      "basename": "二次元配列を伸縮",
-      "path": "ai-conversation-archive/gemini-programming/二次元配列を伸縮.md"
-    },
-    {
-      "basename": "二次元配列のmap()",
-      "path": "ai-conversation-archive/gemini-programming/二次元配列のmap().md"
-    },
-    {
-      "basename": "制御構造禁止プログラミング",
-      "path": "programming/制御構造禁止プログラミング.md"
-    },
-    {
-      "basename": "再帰関数のスタック上限を向上させる裏技",
-      "path": "ai-conversation-archive/gemini-programming/再帰関数のスタック上限を向上させる裏技.md"
-    },
-    {
-      "basename": "高階関数の呼び出し方法ごとの差異",
-      "path": "ai-conversation-archive/gemini-programming/高階関数の呼び出し方法ごとの差異.md"
     }
   ],
   "omittedPaths": [],
