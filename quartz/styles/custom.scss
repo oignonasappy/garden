@@ -62,7 +62,7 @@
   padding: 1rem 2rem 2rem 1rem;
 }
 
-@media all and (min-width: ($mobile + 1px)) {
+@media all and (min-width: #{map.get($breakpoints, mobile) + 1px}) {
   
   .sidebar.left {
     max-height: 100vh;
