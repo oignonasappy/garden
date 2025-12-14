@@ -40,10 +40,10 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
+    Component.Explorer(),
     Component.DesktopOnly(
       Component.RecentNotes({showTags: false}),
     ),
-    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -70,10 +70,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.Explorer(),
     Component.DesktopOnly(
       Component.RecentNotes({showTags: false}),
     ),
-    Component.Explorer(),
     
   ],
   right: [
