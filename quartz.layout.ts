@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
-    Component.RecentNotes({showTags: true}),
+    //Component.RecentNotes({showTags: false}),
     Component.Explorer(),
   ],
   right: [
