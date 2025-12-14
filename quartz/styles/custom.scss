@@ -46,13 +46,16 @@
   }
 }
 
+.center {
+  padding: 1rem 2rem 2rem 1rem;
+}
+
 .sidebar.left {
   max-height: 100vh;
   overflow-y: auto;
   scrollbar-width: thin;
-  position: sticky;
-  top: 0;
-  padding-bottom: 2rem;
+  padding-bottom: 2rem !important;
+  padding-right: 1rem !important;
 }
 
 .page-title {
