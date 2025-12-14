@@ -1,6 +1,8 @@
 ---
 tags:
   - xenharmonic
+aliases:
+  - 微分音音楽
 ---
 
 12平均律の垣根を超えた音楽を指す。  

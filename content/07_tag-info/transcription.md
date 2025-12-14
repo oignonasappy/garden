@@ -1,6 +1,9 @@
 ---
 tags:
   - transcription
+aliases:
+  - 採譜
+  - 耳コピ
 ---
 
 採譜、耳コピ。

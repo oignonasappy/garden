@@ -1,6 +1,8 @@
 ---
 tags:
   - tagname
+aliases:
+  - 
 ---
 #tagname
 

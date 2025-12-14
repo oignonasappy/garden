@@ -1,6 +1,8 @@
 ---
 tags:
   - functional-programming
+aliases:
+  - 関数型プログラミング
 ---
 
 関数型プログラミング、通称*FP*。  

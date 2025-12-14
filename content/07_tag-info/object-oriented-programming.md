@@ -1,6 +1,8 @@
 ---
 tags:
   - object-oriented-programming
+aliases:
+  - オブジェクト指向プログラミング
 ---
 
 オブジェクト指向プログラミング、通称*OOP*。  

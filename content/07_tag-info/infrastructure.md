@@ -1,6 +1,8 @@
 ---
 tags:
   - infrastructure
+aliases:
+  - インフラ
 ---
 
 ITにおいては、情報を伝達するための手段のことかな？

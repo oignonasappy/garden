@@ -1,6 +1,8 @@
 ---
 tags:
   - database
+aliases:
+  - データベース
 ---
 
 大規模なデータの保存場所。

@@ -1,6 +1,8 @@
 ---
 tags:
   - csharp
+aliases:
+  - C#
 ---
 
 Microsoftによって開発された、 #java を基にしたプログラミング言語。

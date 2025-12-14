@@ -1,6 +1,8 @@
 ---
 tags:
   - javascript
+aliases:
+  - js
 ---
 
 ブラウザ上で動作するプログラミング言語。  
