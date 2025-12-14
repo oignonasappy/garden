@@ -3,8 +3,8 @@ tags:
     - transcription
 ---
 
-https://youtu.be/uaURGHX7IRk?si=6qvpSjxccxT6bQqp
-https://youtu.be/ALCy2ynINj4?si=Z-tx_gBzPSWqhBGq
+https://youtu.be/uaURGHX7IRk?si=6qvpSjxccxT6bQqp  
+https://youtu.be/ALCy2ynINj4?si=Z-tx_gBzPSWqhBGq  
 
 A4 = 452.9Hz
 ## 1:16

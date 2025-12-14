@@ -1,7 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-:root {
+:root[saved-theme="dark"] {
   --tokyonight-red: rgb(255, 117, 156);
   --tokyonight-yellow: rgb(224, 175, 104);
   --tokyonight-green: rgb(158, 206, 106);
@@ -10,6 +10,17 @@
   --tokyonight-magenta: rgb(187, 154, 247);
   --pale-cyan: rgb(145, 217, 250);
   --pale2-cyan: rgb(165, 227, 245);
+}
+
+:root[saved-theme="light"] {
+  --tokyonight-red: rgb(235, 97, 136);
+  --tokyonight-yellow: rgb(204, 155, 84);
+  --tokyonight-green: rgb(138, 186, 86);
+  --tokyonight-cyan: rgb(105, 187, 235);
+  --tokyonight-blue: rgb(102, 142, 227);
+  --tokyonight-magenta: rgb(167, 134, 227);
+  --pale-cyan: rgb(115, 187, 220);
+  --pale2-cyan: rgb(135, 197, 215);
 }
 
 .center {
@@ -50,12 +61,34 @@
   padding: 1rem 2rem 2rem 1rem;
 }
 
-.sidebar.left {
-  max-height: 100vh;
-  overflow-y: auto;
-  scrollbar-width: thin;
-  padding-bottom: 2rem !important;
-  padding-right: 1rem !important;
+@media all and (min-width: ($mobile + 1px)) {
+  
+  .sidebar.left {
+    max-height: 100vh;
+    overflow-y: auto;
+    padding-bottom: 2rem !important;
+    padding-right: 1rem !important;
+  
+    //scrollbar-width: none; /* Firefox */
+    //-ms-overflow-style: none; /* IE/Edge */
+    //&::-webkit-scrollbar {
+    //  display: none; /* Chrome/Safari */
+    //}
+  
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: var(--lightgray) transparent; /* Firefox */
+  
+    &::-webkit-scrollbar {
+      width: 4px;
+    }
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--lightgray);
+      border-radius: 20px;
+    }
+  }
 }
 
 .page-title {
