@@ -40,13 +40,18 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
-    //Component.RecentNotes({showTags: false}),
+    Component.DesktopOnly(
+      Component.RecentNotes({showTags: false}),
+    ),
     Component.Explorer(),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(
+      Component.RecentNotes({showTags: false}),
+    ),
   ],
 }
 
@@ -65,8 +70,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.RecentNotes({showTags: false}),
+    Component.DesktopOnly(
+      Component.RecentNotes({showTags: false}),
+    ),
     Component.Explorer(),
+    
   ],
-  right: [],
+  right: [
+    Component.MobileOnly(
+      Component.RecentNotes({showTags: false}),
+    ),
+  ],
 }

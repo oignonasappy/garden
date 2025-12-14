@@ -16,25 +16,41 @@
   h1 {
     color: var(--tokyonight-red);
   }
+
   h2 {
     color: var(--tokyonight-yellow);
   }
+
   h3 {
     color: var(--tokyonight-green);
   }
+
   h4 {
     color: var(--tokyonight-cyan);
   }
+
   h5 {
     color: var(--tokyonight-blue);
   }
+
   h6 {
     color: var(--tokyonight-magenta);
   }
+
   strong {
     color: var(--pale-cyan);
   }
+
   em {
     color: var(--pale2-cyan);
   }
+}
+
+.sidebar.left {
+  max-height: 100vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  position: sticky;
+  top: 0;
+  padding-bottom: 2rem;
 }
