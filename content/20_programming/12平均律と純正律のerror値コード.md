@@ -2,8 +2,8 @@
 tags:
   - javascript
   - xenharmonic
+  - music-theory
 ---
-
 
 ```js
 const TUNING = 440;
@@ -43,3 +43,10 @@ for (let i = 0; i < EQUAL_TEMPERAMENT.length; i++) {
   console.log(1200 * Math.log2(Math.pow(2, EQUAL_TEMPERAMENT[i] / 12) / JUST_INTONATION[i]));
 }
 ```
+
+## 何をしてるか？
+12平均律と純正律の周波数の差を$CDEFGAB$の七音で比較している。  
+差の大きさは[[¢]]で表す。
+
+例えば、短三度で比較すると、  
+$1200\cdot\log_2{(2^\frac{4}{12}/\frac{6}{5})}\approx-15.6412870005526\text{¢}$
