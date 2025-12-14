@@ -1,6 +1,7 @@
 ---
 tags:
     - javascript
+    - math
 ---
 トランポリンで再帰関数のスタックオーバーフローを回避 [[trampoline]]
 

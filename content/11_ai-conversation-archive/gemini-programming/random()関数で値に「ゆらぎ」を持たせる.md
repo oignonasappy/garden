@@ -2,6 +2,7 @@
 tags:
     - gemini
     - javascript
+    - math
 ---
 
 > [!quote]+ Prompt

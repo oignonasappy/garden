@@ -3,6 +3,7 @@ tags:
   - gemini
   - javascript
   - xenharmonic
+  - math
 ---
 
 > [!quote]+ Prompt

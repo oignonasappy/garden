@@ -3,6 +3,7 @@ tags:
   - javascript
   - xenharmonic
   - music-theory
+  - math
 ---
 
 ```js
