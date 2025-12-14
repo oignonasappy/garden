@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
-    Component.RecentNotes({showTags: false}),
+    Component.RecentNotes({showTags: true}),
     Component.Explorer(),
   ],
   right: [
@@ -65,6 +65,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.RecentNotes({showTags: false}),
     Component.Explorer(),
   ],
   right: [],
