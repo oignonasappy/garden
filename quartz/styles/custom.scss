@@ -63,8 +63,8 @@
   padding: 1rem 2rem 2rem 1rem;
 }
 
-.explorer {
-  min-height: 240px !important;
+.explorer.collapsed {
+  min-height: 0 !important;
 }
 
 .page-title {
@@ -104,6 +104,6 @@
     //}
   }
   .explorer {
-    min-height: 0 !important;
+    min-height: 240px !important;
   }
 }
