@@ -17,7 +17,15 @@ const config: QuartzConfig = {
     },
     locale: "ja-JP",
     baseUrl: "garden.asappy.xyz",
-    ignorePatterns: ["private", "x00_private", "template", "08_template", "inbox", "00_inbox", ".obsidian"],
+    ignorePatterns: [
+      "private", "x00_private",
+      "college", "x00_college",
+      "template",
+      "00_inbox",
+      "01_draft",
+      "02_archive",
+      ".obsidian",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -68,7 +76,7 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({
-          enableInHtmlEmbed: true,
+        enableInHtmlEmbed: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),

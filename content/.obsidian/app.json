@@ -3,11 +3,12 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "useTab": false,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "readableLineLength": true,
   "propertiesInDocument": "source",
   "attachmentFolderPath": "attachment",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "newFileFolderPath": "00_inbox"
 }
