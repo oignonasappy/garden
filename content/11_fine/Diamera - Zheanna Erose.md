@@ -3,7 +3,6 @@ tags:
   - xenharmonic
 ---
 
-
 ![](https://youtu.be/ueDiRQFfNsY)
 F∆7ｷ9#11  
 F∆7ｷ9#11ｷ13  
