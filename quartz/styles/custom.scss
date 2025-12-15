@@ -63,14 +63,6 @@
   padding: 1rem 2rem 2rem 1rem;
 }
 
-.explorer {
-  min-height: 240px !important;
-}
-
-.explorer.collapsed {
-  min-height: 0 !important;
-}
-
 .page-title {
   font-size: 3em;
 }
@@ -106,8 +98,13 @@
     //  background-color: var(--lightgray);
     //  border-radius: 20px;
     //}
-  }
-  .explorer {
-    min-height: 0 !important;
+
+    .explorer {
+      min-height: 240px !important;
+    }
+
+    .explorer.collapsed {
+      min-height: 20px !important;
+    }
   }
 }
