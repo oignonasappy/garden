@@ -52,6 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.RecentNotes({showTags: false}),
     ),
+    Component.TagContent(),
   ],
 }
 
