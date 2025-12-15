@@ -63,23 +63,35 @@
   padding: 1rem 2rem 2rem 1rem;
 }
 
+.explorer {
+  min-height: 240px !important;
+}
+
+.page-title {
+  font-size: 3em;
+}
+
 @media all and (min-width: #{map.get($breakpoints, mobile) + 1px}) {
-  
+
   .sidebar.left {
     max-height: 100vh;
     overflow-y: auto;
     padding-bottom: 2rem !important;
     padding-right: 1rem !important;
-  
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE/Edge */
+
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+
+    /* IE/Edge */
     &::-webkit-scrollbar {
-      display: none; /* Chrome/Safari */
+      display: none;
+      /* Chrome/Safari */
     }
-  
+
     //scrollbar-width: thin; /* Firefox */
     //scrollbar-color: var(--lightgray) transparent; /* Firefox */
-  
+
     //&::-webkit-scrollbar {
     //  width: 4px;
     //}
@@ -90,13 +102,8 @@
     //  background-color: var(--lightgray);
     //  border-radius: 20px;
     //}
+    .explorer {
+      min-height: 0 !important;
+    }
   }
-  
-  .explorer {
-    min-height: 240px !important;
-  }
-}
-
-.page-title {
-  font-size: 3em;
 }
