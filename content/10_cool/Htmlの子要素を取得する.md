@@ -1,6 +1,7 @@
 ---
 tags:
     - javascript
+    - html
 ---
 JavaScriptにおいて、`HTMLElement`の子要素を取得したいときがあるだろう
 ```js
