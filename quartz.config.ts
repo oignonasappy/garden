@@ -25,7 +25,6 @@ const config: QuartzConfig = {
       "01_draft",
       "02_archive",
       ".obsidian",
-      "tags"
     ],
     defaultDateType: "modified",
     theme: {
