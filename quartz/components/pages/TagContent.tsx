@@ -15,7 +15,7 @@ interface TagContentOptions {
 }
 
 const defaultOptions: TagContentOptions = {
-  numPages: 10,
+  numPages: 3,
 }
 
 export default ((opts?: Partial<TagContentOptions>) => {
