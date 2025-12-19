@@ -77,6 +77,7 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: true,
+        parseArrows: false,
       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
