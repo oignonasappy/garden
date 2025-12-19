@@ -4,6 +4,8 @@ tags:
   - phrase
 ---
 
+[[CESH|CESHとは？]]
+
 <div class="piano-hover" id="piano" data-first="36" data-last="72" data-key-width="24px" data-key-height="192px" data-volume="0.3" data-duration="1.6" data-osc-type="square"></div>
 
 <button onclick="sequencer(
