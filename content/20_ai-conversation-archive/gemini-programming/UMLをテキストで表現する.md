@@ -1,6 +1,7 @@
 ---
 tags:
     - gemini
+    - uml
 ---
 
 > [!quote]+ Prompt
