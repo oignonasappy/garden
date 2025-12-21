@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({filterFn: () => true}),
     Component.DesktopOnly(
-      Component.RecentNotes({showTags: false}),
+      Component.RecentNotes({showTags: true}),
     ),
   ],
   right: [
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(
-      Component.RecentNotes({showTags: false}),
+      Component.RecentNotes({showTags: true}),
     ),
   ],
 }
@@ -73,13 +73,13 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({filterFn: () => true}),
     Component.DesktopOnly(
-      Component.RecentNotes({showTags: false}),
+      Component.RecentNotes({showTags: true}),
     ),
     
   ],
   right: [
     Component.MobileOnly(
-      Component.RecentNotes({showTags: false}),
+      Component.RecentNotes({showTags: true}),
     ),
   ],
 }

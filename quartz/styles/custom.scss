@@ -107,4 +107,19 @@
       min-height: 20px !important;
     }
   }
+
+  .sidebar.right {
+    max-height: 100vh;
+    overflow-y: auto;
+    padding-bottom: 2rem !important;
+    padding-right: 1rem !important;
+
+    scrollbar-width: none;
+
+    -ms-overflow-style: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
 }
