@@ -160,7 +160,7 @@ FlexboxやGridの強力なレイアウト機能を使って、親要素の幅に
 > 
 > HTML構造はEmmet風に書くと  
 > `#art>.row*8>input[type="checkbox"]*8`  
-> \#artの中に8x8のcheckboxがあるかんじ
+> # artの中に8x8のcheckboxがあるかんじ
 
 了解！これはなかなか面白い状況だね。`#art`という親要素の中に、8x8のチェックボックスが並んでるんだね。しかも親要素の`#art`自体も`aspect-ratio: 1/1`で正方形になってる。
 
