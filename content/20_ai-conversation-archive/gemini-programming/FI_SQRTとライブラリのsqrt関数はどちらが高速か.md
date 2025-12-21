@@ -5,8 +5,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> WTFで有名なFast Inverse Square Rootアルゴリズムと、言語のライブラリのsqrt関数は、どちらが早くなる？
-メジャーな言語毎で比較するとどうなるかな？
+> WTFで有名なFast Inverse Square Rootアルゴリズムと、言語のライブラリのsqrt関数は、どちらが早くなる？  
+> メジャーな言語毎で比較するとどうなるかな？
 
 面白いところを突いてきたね！👍 Fast Inverse Square Root（FI_SQRT）と、言語の標準ライブラリにある`sqrt`関数のどっちが速いかっていうのは、プログラミングの世界でよく議論される、古典的だけど奥深いテーマだよ。
 

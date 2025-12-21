@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> Swift playgroundは、どこまでできるの？
+> Swift playgroundは、どこまでできるの？  
 > アプリを作れるか、それをパッケージ化できるか、それを公開できるか
 
 ---

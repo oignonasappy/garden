@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptのSymbolって何なんだ？
+> JavaScriptのSymbolって何なんだ？  
 > interfaceとは違うのか？
 
 ---

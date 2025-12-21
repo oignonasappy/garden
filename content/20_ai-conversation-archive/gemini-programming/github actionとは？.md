@@ -5,8 +5,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> Github actionsは、
-> 何のための、何ができる、何？
+> Github actionsは、  
+> 何のための、何ができる、何？  
 > そしてー、それはどうやって使うの？
 
 ---

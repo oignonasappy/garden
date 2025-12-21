@@ -5,8 +5,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> SQL Serverにて、
-> IDENTITY列が含まれるテーブルにINSERTするときのクエリの書き方として、
+> SQL Serverにて、  
+> IDENTITY列が含まれるテーブルにINSERTするときのクエリの書き方として、  
 > `INSERT table VALUES(/* ... */);` のように、テーブル名の後ろにカラム名を記述せず、なおかつIDENTITY列には想定通りに連番が振られるようにすることはできる？
 
 ---

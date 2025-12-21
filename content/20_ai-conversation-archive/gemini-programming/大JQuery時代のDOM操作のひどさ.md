@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> 今のJavaScriptではそれなりに簡単にDOM操作ができるけど、
+> 今のJavaScriptではそれなりに簡単にDOM操作ができるけど、  
 > 昔のJavaScript, JQueryが主流だった時代のDOM操作はどれだけ煩雑だったの？
 
 ---

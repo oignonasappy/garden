@@ -4,7 +4,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> (numは整数)
+> (numは整数)  
 > `num * 2` と `num << 1` は何が違うか？
 
 ---
@@ -76,7 +76,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptで、これら２つの実行速度を比較したとき、`num << 1`の方が4倍ほど早いというデータがあったんだけど、
+> JavaScriptで、これら２つの実行速度を比較したとき、`num << 1`の方が4倍ほど早いというデータがあったんだけど、  
 > JavaScriptではIntegerが存在せず、全てNumberなのが理由？
 
 ---

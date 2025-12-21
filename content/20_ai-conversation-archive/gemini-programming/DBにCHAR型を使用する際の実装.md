@@ -5,8 +5,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> DB設計で、CHAR型のコード(プレフィックス+数値)を使用するとして、
-> CREATE TABLE時とか、INSERT時とか、どうやって実装するべき？
+> DB設計で、CHAR型のコード(プレフィックス+数値)を使用するとして、  
+> CREATE TABLE時とか、INSERT時とか、どうやって実装するべき？  
 > (SQL Server)
 
 ---

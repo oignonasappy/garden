@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptの`call()`, `apply()`, `bind()`っていったい何？
+> JavaScriptの`call()`, `apply()`, `bind()`っていったい何？  
 > どんなときに使うの？
 
 ---

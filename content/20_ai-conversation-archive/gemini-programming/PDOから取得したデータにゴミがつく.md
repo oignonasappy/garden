@@ -6,12 +6,12 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> 変な問題が発生した...
-> phpからPDOで行を取得して、取得した情報のIDをGETのパラメータとして付加する。
-> `<button type="button" onclick="location.href='detail.php?id=<?= /* ここにID */ ?>'">詳細</button>`
-> しかし！！
-> このIDのところに謎のゴミ`�`がついてしまう！
-> `?id=00000130������������������������` こんなかんじ
+> 変な問題が発生した...  
+> phpからPDOで行を取得して、取得した情報のIDをGETのパラメータとして付加する。  
+> `<button type="button" onclick="location.href='detail.php?id=<?= /* ここにID */ ?>'">詳細</button>`  
+> しかし！！  
+> このIDのところに謎のゴミ`�`がついてしまう！  
+> `?id=00000130������������������������` こんなかんじ  
 > なぜ？
 
 ---

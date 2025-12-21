@@ -22,10 +22,10 @@ tags:
 > ```
 > 取得したい複数の要素`.fuga`が特定のIDの中にのみある場合に、
 > 
-> 1. ドキュメント全体から`querySelectorAll()`をする
+> 1. ドキュメント全体から`querySelectorAll()`をする  
 > 2. `getElementById()`をした後にそのElementに対して`querySelectorAll()`する
 > 
-> どちらが高速？
+> どちらが高速？  
 > (1.`querySelectorAll()`のクエリを"#hoge .fuga"のようにする場合と、".fuga"のようにする場合に速度に違いはある?)
 > 
 > `getElementById()`は一般的に高速で、`querySelectorAll()`は一般的に低速らしいけど...

@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> 高度に抽象化してしまえば、
-> loop と generator と array
+> 高度に抽象化してしまえば、  
+> loop と generator と array  
 > は同じ？
 
 ---

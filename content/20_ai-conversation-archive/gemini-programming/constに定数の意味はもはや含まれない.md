@@ -4,7 +4,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptのconstはもはや定数を表す意味ではないよね。
+> JavaScriptのconstはもはや定数を表す意味ではないよね。  
 > だから「定数」という意味を持たせるときは、UPPER_SNAKECASEを使うというかたち？
 
 ---

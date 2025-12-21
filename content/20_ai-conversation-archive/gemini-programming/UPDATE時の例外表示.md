@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> 主にJavaのWebアプリケーションなどで、
-> SQLのUPDATE時にSQLExceptionが発生したとして、
+> 主にJavaのWebアプリケーションなどで、  
+> SQLのUPDATE時にSQLExceptionが発生したとして、  
 > UPDATE時に例外が発生したことを明記した例外を画面、ビュー側に渡す時のベストプラクティスは？
 
 ---

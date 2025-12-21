@@ -5,8 +5,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> Entity Framework 6(Coreじゃない方)のDbContextと、DataGridViewを使った、
-> 普通の表示、結合したテーブルの表示、特定行を指定したUPDATEなど...
+> Entity Framework 6(Coreじゃない方)のDbContextと、DataGridViewを使った、  
+> 普通の表示、結合したテーブルの表示、特定行を指定したUPDATEなど...  
 > その方法を教えて！
 
 ---

@@ -5,9 +5,9 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> ありがとう！
-ところで、WebAssemblyは機能としてどこからどこまでを担えるもの？
-javascriptの代替とはならない？
+> ありがとう！  
+> ところで、WebAssemblyは機能としてどこからどこまでを担えるもの？  
+> javascriptの代替とはならない？
 
 お、WebAssemblyについてだね！WebAssembly（Wasm）は、JavaScriptとよく比較されるけど、**代替となるものではない**よ。これはとても重要なポイントだ。
 

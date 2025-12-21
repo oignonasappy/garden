@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> "q", "que", "queue" にマッチして、
+> "q", "que", "queue" にマッチして、  
 > "pue", "qeu", "queu", "queueue"にマッチしないような正規表現
 
 ---

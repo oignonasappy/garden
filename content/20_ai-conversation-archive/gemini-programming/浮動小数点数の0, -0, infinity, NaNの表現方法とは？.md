@@ -4,8 +4,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> float型, double型は、0, -0, infinity, -infinity, NaNを表すことができる？
-そして、それをどのような方法で表している？どんなビット列？
+> float型, double型は、0, -0, infinity, -infinity, NaNを表すことができる？  
+> そして、それをどのような方法で表している？どんなビット列？
 
 よう！👋 質問ありがとう！君の情報工学の知識が試される、良い問いかけだね。
 

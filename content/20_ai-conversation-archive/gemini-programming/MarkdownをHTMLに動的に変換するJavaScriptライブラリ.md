@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> markdownテキストをできるだけ動的にHTMLに表示できるjavascriptライブラリはある？
+> markdownテキストをできるだけ動的にHTMLに表示できるjavascriptライブラリはある？  
 > テキストボックスがあって、そこに入力されたmarkdownをリアルタイムにプレビューしたい
 
 まさに求めている機能を実現できる、**Markdownテキストを動的にHTMLに変換・表示するJavaScriptライブラリ**はたくさんあるよ！🚀

@@ -105,7 +105,7 @@ public class Main {
 ---
 
 > [!quote]+ Prompt
-> 構文的にできるか微妙だけど、
+> 構文的にできるか微妙だけど、  
 > `this.hoge = this;` (クラスHoge、Hogeクラスのインスタンスを代入)
 > 
 > これは... なんだ？

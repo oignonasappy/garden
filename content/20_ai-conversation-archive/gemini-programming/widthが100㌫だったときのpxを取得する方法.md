@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptから、
-> その要素(display:block)のwidthがもし100%であったときのwidth(px)を取得するいい方法はある？
+> JavaScriptから、  
+> その要素(display:block)のwidthがもし100%であったときのwidth(px)を取得するいい方法はある？  
 > 普通にシミュレート的な方法でやるしかない？
 
 ---

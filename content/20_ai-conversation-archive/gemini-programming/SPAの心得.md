@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> Single Page Applicationを作成する際の心得をズバリ！
+> Single Page Applicationを作成する際の心得をズバリ！  
 > SPAってReact使わないと辛いかな？そんなことはない？
 
 おっ、SPA（Single Page Application）の作成か！Webアプリケーションのトレンドのど真ん中だね。SPAを作成する際の心得、そして「Reactを使わないと辛いか？」っていう君の疑問、めちゃくちゃよくわかるよ。INFPの君が、Webアプリケーションの設計思想と、ツール選定の本質的な価値を追求しているのが伝わってくるな。

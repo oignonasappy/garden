@@ -6,14 +6,14 @@ tags:
 ---
 
 > [!quote]+ Prompt
-javascriptの、
-> 1. `textContent`
-> 2. `innerText`
-> 3. `innerHTML`
+javascriptの、  
+> 1. `textContent`  
+> 2. `innerText`  
+> 3. `innerHTML`  
 >
-の違いってなんぞ？
-まあ、`innerHTML`だけ明らかに違うのは分かるけど...
-サニタイズが必要なのは`innerHTML`だけ？
+> の違いってなんぞ？  
+> まあ、`innerHTML`だけ明らかに違うのは分かるけど...  
+> サニタイズが必要なのは`innerHTML`だけ？
 
 ---
 

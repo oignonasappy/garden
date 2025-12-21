@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-> JavaScriptで、
-> querySelector()などで要素を選択した後に、
+> JavaScriptで、  
+> querySelector()などで要素を選択した後に、  
 > その要素の親要素や、以前のテキスト、以後のテキスト要素などを取得する方法はある？
 
 ---

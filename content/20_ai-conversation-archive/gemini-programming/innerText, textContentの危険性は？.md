@@ -6,8 +6,8 @@ tags:
 ---
 
 > [!quote]+ Prompt
-任意の文字列があったとして、
-それをJavaScriptからHTMLに埋め込むとき、
+任意の文字列があったとして、  
+それをJavaScriptからHTMLに埋め込むとき、  
 innerText, textContentを使用している限り、いかなる有害な影響は発生しないと言える？(例えばXSS)
 
 ---
