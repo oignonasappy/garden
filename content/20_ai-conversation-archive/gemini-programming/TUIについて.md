@@ -1,6 +1,7 @@
 ---
 tags:
   - gemini
+  - character
 ---
 
 > [!quote]+ Prompt

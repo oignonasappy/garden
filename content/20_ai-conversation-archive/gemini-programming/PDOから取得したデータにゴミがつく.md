@@ -3,6 +3,7 @@ tags:
   - gemini
   - php
   - database
+  - character
 ---
 
 > [!quote]+ Prompt
