@@ -1,7 +1,7 @@
 ---
 tags:
   - gemini
-  - shellscript
+  - bash
 ---
 
 > [!quote]+ Prompt
