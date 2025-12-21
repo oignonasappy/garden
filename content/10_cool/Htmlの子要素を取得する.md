@@ -25,16 +25,16 @@ const elements = document.querySelector(/* css query */).children;
 document.querySelector(/* css query */).childNodes;
 ```
 
-この`HTMLCollection`というやつはひどく使いづらい。
+この`HTMLCollection`というやつはひどく使いづらい。  
 index`elememts[0]`か、名前`elements.name`でプロパティを取得することぐらいしかできない
 
-ので`Array`に変換してしまえば`Array`の強力なメソッド達が使用できるようになる。
+ので`Array`に変換してしまえば`Array`の強力なメソッド達が使用できるようになる。  
 具体的な方法と言えば
 ```js
 Array.from(elements);
 ```
 
-こうだが、なんだか長ったらしいので、モダンな書き方"スプレッド構文"で書くとかっこいい
+こうだが、なんだか長ったらしいので、モダンな書き方"スプレッド構文"で書くとかっこいい  
 [スプレッド構文](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Spread_syntax)とは : 配列や配列風オブジェクトやオブジェクトやイテレーターやジェネレーターなどを"展開"することができる
 ```js
 [...elements];
