@@ -1,5 +1,6 @@
 ---
 tags:
+  - music-theory
 ---
 
 | BPM | 187 | | | | |
