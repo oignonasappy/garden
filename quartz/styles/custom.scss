@@ -123,3 +123,15 @@
     }
   }
 }
+
+table {
+  overflow: auto;
+
+  tr {
+
+    th,
+    td {
+      min-width: 160px;
+    }
+  }
+}
