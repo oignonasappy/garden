@@ -27,8 +27,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-    Component.Graph(),
-    Component.Backlinks(),
+    Component.MobileOnly(Component.Graph(),),
+    Component.MobileOnly(Component.Backlinks()),
+    Component.MobileOnly(Component.RecentNotes({ showTags: true })),
   ],
   left: [
     Component.PageTitle(),
@@ -44,15 +45,12 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ filterFn: () => true }),
-    Component.DesktopOnly(
-      Component.RecentNotes({ showTags: true }),
-    ),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: true })),
   ],
   right: [
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.Backlinks()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(
-      Component.RecentNotes({ showTags: true }),
-    ),
   ],
 }
 
@@ -60,9 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   afterBody: [
-    Component.MobileOnly(
-      Component.RecentNotes({ showTags: true }),
-    ),
+    Component.MobileOnly(Component.RecentNotes({ showTags: true })),
   ],
   left: [
     Component.PageTitle(),
@@ -77,9 +73,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ filterFn: () => true }),
-    Component.DesktopOnly(
-      Component.RecentNotes({ showTags: true }),
-    ),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: true })),
   ],
   right: [],
 }
