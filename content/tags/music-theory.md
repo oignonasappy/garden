@@ -1,7 +1,6 @@
 ---
 tags:
   - music-theory
-  - tagname
 aliases:
   - 音楽理論
 ---
