@@ -218,7 +218,7 @@ a {
     }
 
     @media all and not ($desktop) {
-      padding: 0 0 0 1rem;
+      padding: 0 0 0 0;
     }
 
     @media all and ($mobile) {
