@@ -145,16 +145,12 @@ table {
 }
 
 .right.sidebar {
-  padding-top: 1rem !important;
+  padding-top: 2rem !important;
 }
 
 @media all and ($mobile) {
   .page-header {
     margin-top: 6rem !important;
-  }
-
-  .left.sidebar {
-    padding-top: 6rem !important;
   }
 
   .page > #quartz-body {
