@@ -13,7 +13,7 @@ tags:
 | D∆ | F∆ |
 | C∆ | ... |
 
-全音ずつ降りていくのです。
+全音ずつ降りていく[[循環進行]]なのです。
 
 https://github.com/user-attachments/assets/cc65230a-12f9-4406-ba33-fd332b0f5808  
 
