@@ -137,20 +137,24 @@ table {
 }
 
 .page-header {
-  margin-top: 1rem;
+  margin-top: 1rem !important;
 }
 
 .left.sidebar {
-  padding-top: 1rem;
+  padding-top: 1rem !important;
+}
+
+.right.sidebar {
+  padding-top: 1rem !important;
 }
 
 @media all and ($mobile) {
   .page-header {
-    margin-top: 6rem;
+    margin-top: 6rem !important;
   }
 
   .left.sidebar {
-    padding-top: 6rem;
+    padding-top: 6rem !important;
   }
 
   .page > #quartz-body {
