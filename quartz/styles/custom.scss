@@ -127,3 +127,13 @@
 table {
   overflow: auto;
 }
+
+.explorer > .explorer-content > .explorer-ul > li > .folder-outer > .content > li > a::before {
+  display: inline-block;
+  content: "";
+  width: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  transform: translateY(-0.05rem);
+}
