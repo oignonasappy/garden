@@ -203,9 +203,6 @@ a {
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
     }
 
-    //@media all and not ($desktop) {
-    //  padding: 0 1rem;
-    //}
     @media all and ($mobile) {
       margin: 0 auto;
     }
@@ -231,7 +228,7 @@ a {
         display: flex;
         height: unset;
         flex-direction: row;
-        padding: 0;
+        padding: 0 1rem;
         padding-top: 2rem;
       }
     }
@@ -249,7 +246,7 @@ a {
         height: unset;
         width: 100%;
         flex-direction: row;
-        padding: 0;
+        padding: 0 1rem;
         & > * {
           flex: 1;
           max-height: 24rem;
