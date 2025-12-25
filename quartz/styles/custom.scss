@@ -132,7 +132,8 @@ table {
   display: inline-block;
   content: "";
   width: 1rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  border-top: 1px solid #000;
+  mix-blend-mode: difference;
   margin-right: 0.5rem;
   vertical-align: middle;
   transform: translateY(-0.05rem);
