@@ -64,7 +64,6 @@
   h4,
   h5,
   h6 {
-    width: fit-content;
     position: relative;
   }
 
@@ -72,13 +71,25 @@
   h2::after,
   h3::after {
     content: "";
+    display: block;
+    height: 2px;
+    width: 100%;
     position: absolute;
     left: 0;
-    bottom: -4px;
-    height: 2px;
-    background-color: currentColor;
-    width: calc(100% + 30vw);
-    max-width: calc(100vw - 100%);
+    bottom: 0.2rem;
+    opacity: 0.5;
+  }
+
+  h1::after {
+    background-color: var(--tokyonight-red);
+  }
+
+  h2::after {
+    background-color: var(--tokyonight-yellow);
+  }
+
+  h3::after {
+    background-color: var(--tokyonight-green);
   }
 }
 
