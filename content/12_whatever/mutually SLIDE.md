@@ -8,4 +8,5 @@ tags:
 | or... | | | |
 | Db／F- | Eb／G- | Eb-／Gb | Ebsus2／Fsus4 | 
 
-[[コード表記]]
+[[コード表記]]  
+[[SLIDE操作の定義]]
