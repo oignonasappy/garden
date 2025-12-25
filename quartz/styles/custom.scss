@@ -128,13 +128,21 @@ table {
   overflow: auto;
 }
 
-.explorer > .explorer-content > .explorer-ul > li > .folder-outer > .content > li > a::before {
+//.explorer > .explorer-content > .explorer-ul > li > 
+.folder-outer > .content > li > a::before {
   display: inline-block;
   content: "";
-  width: 1rem;
-  border-top: 1px solid #000;
-  mix-blend-mode: difference;
-  margin-right: 0.5rem;
+  width: 0.5rem;
+  border-top: 1px solid var(--gray);
+  margin-right: 0.3rem;
   vertical-align: middle;
   transform: translateY(-0.05rem);
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body {
+    .explorer-content {
+      padding-left: 1rem;
+    }
+  }
 }
