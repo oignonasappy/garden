@@ -59,10 +59,6 @@
   }
 }
 
-.center {
-  padding: 1rem 2rem 2rem 1rem;
-}
-
 .page-title {
   font-size: 3em;
 }
@@ -134,12 +130,29 @@ table {
   content: "";
   width: 0.5rem;
   border-top: 1px solid var(--gray);
-  margin-right: 0.3rem;
+  position: relative;
+  left: -0.3rem;
   vertical-align: middle;
   transform: translateY(-0.05rem);
 }
 
+.page-header {
+  margin-top: 1rem;
+}
+
+.left.sidebar {
+  padding-top: 1rem;
+}
+
 @media all and ($mobile) {
+  .page-header {
+    margin-top: 6rem;
+  }
+
+  .left.sidebar {
+    padding-top: 6rem;
+  }
+
   .page > #quartz-body {
     .explorer-content {
       padding-left: 1rem;
