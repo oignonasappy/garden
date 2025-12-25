@@ -26,7 +26,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(
+      Component.RecentNotes({ showTags: true }),
+    ),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -40,25 +44,26 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({filterFn: () => true}),
+    Component.Explorer({ filterFn: () => true }),
     Component.DesktopOnly(
-      Component.RecentNotes({showTags: true}),
+      Component.RecentNotes({ showTags: true }),
     ),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.MobileOnly(
-      Component.RecentNotes({showTags: true}),
-    ),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(
+      Component.RecentNotes({ showTags: true }),
+    ),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -71,15 +76,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({filterFn: () => true}),
+    Component.Explorer({ filterFn: () => true }),
     Component.DesktopOnly(
-      Component.RecentNotes({showTags: true}),
-    ),
-    
-  ],
-  right: [
-    Component.MobileOnly(
-      Component.RecentNotes({showTags: true}),
+      Component.RecentNotes({ showTags: true }),
     ),
   ],
+  right: [],
 }
