@@ -27,9 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-    Component.MobileOnly(
-      Component.RecentNotes({ showTags: true }),
-    ),
+    Component.Graph(),
+    Component.Backlinks(),
   ],
   left: [
     Component.PageTitle(),
@@ -50,9 +49,10 @@ export const defaultContentPageLayout: PageLayout = {
     ),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.MobileOnly(
+      Component.RecentNotes({ showTags: true }),
+    ),
   ],
 }
 
