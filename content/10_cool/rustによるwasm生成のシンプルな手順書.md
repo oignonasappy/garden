@@ -42,8 +42,9 @@ features = [
 
 ## Rustコードを実装
 > [!todo]
-> 詳しい詳細は後で書くかもしれないし、書かないかもしれない。
-> ここで実際にwasmで行う処理を書く。
+> 詳しい詳細は後で書くかもしれないし、書かないかもしれない。  
+> ここで実際にwasmで行う処理を書く。  
+> 私は[[苦しんでwasmを作った]]
 ```rust
 use wasm_bindgen::prelude::*;
 use web_sys::{HtmlElement, window};
