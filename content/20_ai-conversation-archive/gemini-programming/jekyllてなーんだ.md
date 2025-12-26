@@ -3,6 +3,7 @@ tags:
   - gemini
   - html
   - git
+  - markdown
 ---
 
 > [!quote]+ Prompt

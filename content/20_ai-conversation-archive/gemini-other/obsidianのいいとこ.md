@@ -2,6 +2,7 @@
 tags:
   - gemini
   - obsidian
+  - markdown
 ---
 
 > [!quote]+ Prompt

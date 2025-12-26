@@ -1,7 +1,8 @@
 ---
 tags:
-    - gemini
-    - uml
+  - gemini
+  - uml
+  - markdown
 ---
 
 > [!quote]+ Prompt

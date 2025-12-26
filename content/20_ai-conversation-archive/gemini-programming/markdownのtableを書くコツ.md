@@ -1,7 +1,7 @@
 ---
 tags:
-    - gemini
-    - obsidian
+  - gemini
+  - markdown
 ---
 
 > [!quote]+ Prompt

@@ -1,6 +1,7 @@
 ---
 tags:
-    - obsidian
+  - obsidian
+  - markdown
 ---
 
 > [!abstract]

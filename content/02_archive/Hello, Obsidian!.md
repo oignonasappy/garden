@@ -1,6 +1,7 @@
 ---
 tags:
   - obsidian
+  - markdown
 ---
 **Bold**  
 *Italic*  
