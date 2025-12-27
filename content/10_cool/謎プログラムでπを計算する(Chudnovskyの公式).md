@@ -105,7 +105,13 @@ class CalculatePi {
 
 ### おまけ
 
-Chudnovsky FormulaのMath ML
+Chudnovsky FormulaのLaTeX
+
+```LaTeX
+\frac{1}{\pi} = 12 \sum_{k=0}^{\infty} \frac{(-1)^k (6k)! (545140134k + 13591409)}{(3k)! (k!)^3 (640320)^{3k + 3/2}}
+```
+
+Chudnovsky Formulaのhtml
 
 ```html
 <math display="block">
