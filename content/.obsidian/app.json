@@ -10,5 +10,6 @@
   "propertiesInDocument": "source",
   "attachmentFolderPath": "attachment",
   "focusNewTab": true,
-  "newFileFolderPath": "00_inbox"
+  "newFileFolderPath": "00_inbox",
+  "tabSize": 2
 }
