@@ -4,6 +4,7 @@ tags:
 aliases:
   - CSharp
   - C#
+  - C♯
 ---
 
 Microsoftによって開発された、 [[java|Java]] を基にしたプログラミング言語。

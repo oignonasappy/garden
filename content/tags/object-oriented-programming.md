@@ -9,7 +9,7 @@ aliases:
 ---
 
 オブジェクト指向プログラミング、通称*OOP*。  
-代表例は [[java|Java]], [[csharp|C#]], [[cpp|C++]]
+代表例は [[java|Java]], [[csharp|CSharp]], [[cpp|C++]]
 
 ```dataview
 TABLE file.mtime AS "最終更新日" FROM #object-oriented-programming SORT file.name ASC
