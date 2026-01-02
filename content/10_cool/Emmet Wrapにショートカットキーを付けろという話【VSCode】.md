@@ -30,7 +30,7 @@ Emmet Wrap変換とはHTMLの要素をまとめてタグでくくることがで
 Emmetの省略記法でタグを作成したら、  
 ![.containerと入力](https://monologue.asappy.xyz/pages/vscode-emmet-wrap/images/image4.png)
 
-なんと驚き、全体が<div>で囲まれた！  
+なんと驚き、全体が`<div>`で囲まれた！  
 ![HTMLで書かれた複数のタグ全てが.containerで囲まれている](https://monologue.asappy.xyz/pages/vscode-emmet-wrap/images/image5.png)
 
 こんな機能です。
