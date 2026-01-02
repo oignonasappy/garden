@@ -5,7 +5,7 @@ aliases:
   - React
 ---
 
-#javascript *仮想DOM* 管理ライブラリ。  
+[[javascript|JavaScript]] *仮想DOM* 管理ライブラリ。  
 *SPA* アプリケーション開発に頻繁に使用される。
 
 ```dataview
