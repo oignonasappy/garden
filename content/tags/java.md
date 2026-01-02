@@ -5,7 +5,7 @@ aliases:
     - Java
 ---
 
-*"Write once, run anywhere"* がウリのプログラミング言語。  
+*"Write once, run anywhere"* がウリの[[object-oriented-programming|オブジェクト指向プログラミング]]言語。  
 しかしブラウザ上ではもう動かなくなった。
 
 ```dataview

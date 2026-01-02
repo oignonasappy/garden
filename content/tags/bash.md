@@ -5,7 +5,7 @@ aliases:
   - Bash
 ---
 
-LinuxやMacOSで使われるShell。  
+[[linux|LinuxOS]]やMacOSで使われるShell。  
 ShellScriptによる自動化をサポートしている。
 
 ```dataview
