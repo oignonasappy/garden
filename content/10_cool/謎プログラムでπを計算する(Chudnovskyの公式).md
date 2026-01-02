@@ -1,7 +1,8 @@
 ---
 tags:
-    - java
-    - math
+  - java
+  - math
+  - algorithm
 ---
 
 > https://monologue.asappy.xyz/pages/weird-pi/ からのセルフ転載。
