@@ -4,7 +4,6 @@ tags:
 aliases:
   - next.js
 ---
-#next-js
 
 *node.js* ランタイム上で動作させる #javascript WEBフルスタックフレームワーク。  
 サーバーコンポーネントと*SSR/SSG* により、クライアント側の負荷を最小限にしつつ、動的な *SPA* アプリケーションを作成できる。  

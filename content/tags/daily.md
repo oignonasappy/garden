@@ -4,7 +4,6 @@ tags:
 aliases:
   - 日記
 ---
-#daily
 
 [[03_daily/index|index]]
 

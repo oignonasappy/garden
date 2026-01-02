@@ -4,7 +4,6 @@ tags:
 aliases:
   - 
 ---
-#bash
 
 LinuxやMacOSで使われるShell。  
 ShellScriptによる自動化をサポートしている。

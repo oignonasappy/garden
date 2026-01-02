@@ -4,7 +4,6 @@ tags:
 aliases:
   - 英語
 ---
-#english
 
 英語！
 

@@ -4,7 +4,6 @@ tags:
 aliases:
   - 哲学
 ---
-#philosophy
 
 哲学。
 

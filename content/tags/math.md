@@ -4,7 +4,6 @@ tags:
 aliases:
   - 数学
 ---
-#math
 
 数学。あるいは算数。
 

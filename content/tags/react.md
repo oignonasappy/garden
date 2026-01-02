@@ -4,7 +4,6 @@ tags:
 aliases:
   - 
 ---
-#react
 
 #javascript *仮想DOM* 管理ライブラリ。  
 *SPA* アプリケーション開発に頻繁に使用される。

@@ -4,7 +4,6 @@ tags:
 aliases:
   - 
 ---
-#linux
 
 オープンソースの *OS* 。
 

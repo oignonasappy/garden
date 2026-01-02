@@ -4,7 +4,6 @@ tags:
 aliases:
   - 音楽理論
 ---
-#music-theory
 
 音楽理論
 
