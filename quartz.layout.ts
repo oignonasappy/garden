@@ -75,5 +75,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({ filterFn: () => true }),
     Component.DesktopOnly(Component.RecentNotes({ showTags: true })),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.Graph()),
+  ],
 }
