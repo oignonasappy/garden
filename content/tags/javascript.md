@@ -2,6 +2,7 @@
 tags:
   - javascript
 aliases:
+  - JavaScript
   - js
 ---
 

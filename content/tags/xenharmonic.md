@@ -2,6 +2,8 @@
 tags:
   - xenharmonic
 aliases:
+  - Xenharmonic
+  - ゼンハーモニック音楽
   - 微分音音楽
 ---
 

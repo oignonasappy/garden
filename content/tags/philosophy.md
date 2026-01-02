@@ -2,6 +2,7 @@
 tags:
   - philosophy
 aliases:
+  - Philosophy
   - 哲学
 ---
 

@@ -2,6 +2,7 @@
 tags:
   - algorithm
 aliases:
+  - Algorithm
   - アルゴリズム
 ---
 

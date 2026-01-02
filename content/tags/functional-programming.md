@@ -2,6 +2,8 @@
 tags:
   - functional-programming
 aliases:
+  - FunctionalProgramming
+  - FP
   - 関数型プログラミング
 ---
 

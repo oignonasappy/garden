@@ -2,6 +2,7 @@
 tags:
   - csharp
 aliases:
+  - CSharp
   - C#
 ---
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - gemini
+aliases:
+  - Gemini
 ---
 
 GoogleのAI、「Gemini」

@@ -2,7 +2,7 @@
 tags:
   - react
 aliases:
-  - 
+  - React
 ---
 
 #javascript *仮想DOM* 管理ライブラリ。  

@@ -2,7 +2,7 @@
 tags:
   - bash
 aliases:
-  - 
+  - Bash
 ---
 
 LinuxやMacOSで使われるShell。  

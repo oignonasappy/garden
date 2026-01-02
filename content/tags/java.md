@@ -1,6 +1,8 @@
 ---
 tags:
     - java
+aliases:
+    - Java
 ---
 
 *"Write once, run anywhere"* がウリのプログラミング言語。  

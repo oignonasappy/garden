@@ -2,6 +2,7 @@
 tags:
   - daily
 aliases:
+  - Daily
   - 日記
 ---
 

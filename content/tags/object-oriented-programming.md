@@ -2,7 +2,10 @@
 tags:
   - object-oriented-programming
 aliases:
+  - ObjectOrientedProgramming
+  - OOP
   - オブジェクト指向プログラミング
+  - オブジェクト指向
 ---
 
 オブジェクト指向プログラミング、通称*OOP*。  

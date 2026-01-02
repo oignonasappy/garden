@@ -2,7 +2,8 @@
 tags:
   - markdown
 aliases:
-  - 
+  - Markdown
+  - md
 ---
 
 #html によるテキスト整形をより簡易的に表現するためのマークアップ言語。

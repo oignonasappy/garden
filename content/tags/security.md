@@ -2,6 +2,7 @@
 tags:
   - security
 aliases:
+  - Security
   - セキュリティ
 ---
 

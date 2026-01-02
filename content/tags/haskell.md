@@ -2,7 +2,7 @@
 tags:
   - haskell
 aliases:
-  - 
+  - Haskell
 ---
 
 純粋[[functional-programming|関数型プログラミング]]言語。

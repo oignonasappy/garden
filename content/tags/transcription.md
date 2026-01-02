@@ -2,6 +2,7 @@
 tags:
   - transcription
 aliases:
+  - Transcription
   - 採譜
   - 耳コピ
 ---

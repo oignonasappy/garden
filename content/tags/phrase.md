@@ -2,6 +2,7 @@
 tags:
   - phrase
 aliases:
+  - Phrase
   - フレーズ
 ---
 

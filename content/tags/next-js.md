@@ -2,7 +2,8 @@
 tags:
   - next-js
 aliases:
-  - next.js
+  - NextJs
+  - Next.js
 ---
 
 *node.js* ランタイム上で動作させる #javascript WEBフルスタックフレームワーク。  

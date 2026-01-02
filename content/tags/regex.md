@@ -2,6 +2,9 @@
 tags:
   - regex
 aliases:
+  - Regex
+  - RegExp
+  - RegularExpression
   - 正規表現
 ---
 

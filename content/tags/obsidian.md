@@ -1,6 +1,8 @@
 ---
 tags:
   - obsidian
+aliases:
+  - Obsidian
 ---
 
 #markdown  指向のメモアプリ。つまり、この場所。

@@ -2,6 +2,8 @@
 tags:
   - english
 aliases:
+  - English
+  - en
   - 英語
 ---
 

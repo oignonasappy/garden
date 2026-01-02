@@ -2,6 +2,8 @@
 tags:
   - math
 aliases:
+  - Math
+  - Mathematics
   - 数学
 ---
 

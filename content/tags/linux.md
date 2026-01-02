@@ -2,7 +2,8 @@
 tags:
   - linux
 aliases:
-  - 
+  - Linux
+  - LinuxOS
 ---
 
 オープンソースの *OS* 。

@@ -2,6 +2,7 @@
 tags:
   - music-theory
 aliases:
+  - MusicTheory
   - 音楽理論
 ---
 

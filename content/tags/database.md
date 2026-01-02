@@ -2,6 +2,8 @@
 tags:
   - database
 aliases:
+  - DB
+  - DataBase
   - データベース
 ---
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - css
+aliases:
+  - CSS
 ---
 
 [[html|HTML]] の見た目のスタイリングをするためのプログラミング言語。

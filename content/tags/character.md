@@ -2,6 +2,7 @@
 tags:
   - character
 aliases:
+  - Character
   - 文字コード
 ---
 
