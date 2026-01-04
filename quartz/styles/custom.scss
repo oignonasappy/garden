@@ -2,6 +2,12 @@
 @use "sass:map";
 @use "./variables.scss" as *;
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 // put your custom CSS here!
 :root {
   --tokyonight-red: rgb(255, 117, 156);
