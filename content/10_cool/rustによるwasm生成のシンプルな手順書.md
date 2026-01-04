@@ -71,7 +71,7 @@ wasm-pack build --target web
 <script type="module">
     import init from './pkg/[project name].js';
     async function run() {
-        await init('./pkg/[project name]_bg.wasm'); 
+        await init(); 
         console.log("Wasmロード完了");
     }
     
